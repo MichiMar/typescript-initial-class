@@ -29,3 +29,5 @@ npm install -g tsun
 tsun
 
 -and now I wlll be able to work with typescript
+
+## USeuful commands
