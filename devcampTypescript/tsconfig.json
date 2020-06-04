@@ -1,6 +1,6 @@
 {
-  "compiledOptions": {
+  "compilerOptions": {
     "sourceMap": true
   },
-  "files": [""]
+  "files": ["005_typescript_config.ts"]
 }
