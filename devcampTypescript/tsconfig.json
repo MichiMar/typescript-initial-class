@@ -1,6 +1,6 @@
-{
-  "compilerOptions": {
-    "sourceMap": true
-  },
-  "files": ["005_typescript_config.ts"]
-}
+// {
+//   "compilerOptions": {
+//     "sourceMap": true
+//   },
+//   "files": ["005_typescript_config.ts"]
+// }
