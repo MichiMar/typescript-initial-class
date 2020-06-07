@@ -1,1 +1,4 @@
-"A long message filled with text";
+//
+var msg: string = "Mich";
+console.log("A long message to " + msg + " filed with text");
+console.log(`A long message to ${msg} filed with text`);

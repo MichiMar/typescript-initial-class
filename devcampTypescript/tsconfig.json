@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": true
   },
-  "files": ["006_variables.ts"]
+  "files": ["006_5_string_interpolation.ts"]
   //  # In the string only the file I want to complid
 }
 
