@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": true
   },
-  "files": ["008_type_alias.ts"]
+  "files": ["009_union_types.ts"]
   //  # In the string only the file I want to complid
 }
 
