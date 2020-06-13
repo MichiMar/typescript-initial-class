@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": true
   },
-  "files": ["009_union_types.ts"]
+  "files": ["010_aritmethic_operator.ts"]
   //  # In the string only the file I want to complid
 }
 
