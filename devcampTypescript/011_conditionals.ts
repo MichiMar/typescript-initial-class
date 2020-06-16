@@ -1,4 +1,4 @@
-let password: string = "zlzlzll";
+let password: string = "zlzlzlzl";
 
 if ((password = "asdfasdf")) {
   console.log("yes, asdfasdf is the password");
