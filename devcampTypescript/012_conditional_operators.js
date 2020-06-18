@@ -1,29 +1,23 @@
-let x: number = 100;
-
+var x = 100;
 // if (x == 200) {
 //   console.log("Condition passed");
 // }
-
 // if (x === 100) {
 //   console.log(x, "Condition passed");
 // }
-
 // if (x != 100) {
 //   console.log("Condition passed");
 // }
-
 // if (x > 100) {
 //   console.log("Condition passed");
 // }
-
 // if (x >= 100) {
 //   console.log("Condition passed");
 // }
-
 if (x < 100) {
-  console.log("Condition passed");
+    console.log("Condition passed");
 }
-
 if (x <= 100) {
-  console.log("Condition passed");
+    console.log("Condition passed");
 }
+//# sourceMappingURL=012_conditional_operators.js.map
