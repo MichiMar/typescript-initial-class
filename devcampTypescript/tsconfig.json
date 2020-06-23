@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": true
   },
-  "files": ["013_compound_conditional.ts"]
+  "files": ["014_loops.ts"]
   //  # In the string only the file I want to complid
 }
 
