@@ -2,7 +2,7 @@
   "compilerOptions": {
     "sourceMap": true
   },
-  "files": ["015_functions.ts"]
+  "files": ["016_function_args.ts"]
   //  # In the string only the file I want to complid
 }
 
