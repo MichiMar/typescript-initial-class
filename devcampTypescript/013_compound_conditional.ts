@@ -11,3 +11,8 @@ if (password == "asdasd" || password == "qweqwe") {
 if (!(email == "test@test.com")) {
   console.log("You are authorized");
 }
+
+// las dobles lineas significan o, es 
+// decir en el ejemplo si cualquiera de los dos 
+// password es tal cual la planteacion, se correra el 
+// programa, de otro modo simplemente no lo hara
